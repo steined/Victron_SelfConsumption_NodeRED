@@ -13,7 +13,8 @@ Step 4: Review code, understand settings, and make sure it fits your usage needs
 
 Step 5: Click "Deploy" 
 
-Step 6: Click debug icon to view outputs<img width="532" alt="image" src="https://github.com/user-attachments/assets/07f3e7bd-2ccf-4ebe-936a-db6ecc7628ce"> and monitor connection status in your Cerbo Touch or browser or VRM. 
+Step 6: Click debug icon to view outputs and monitor connection status in your Cerbo Touch or browser or VRM. 
+<img width="532" alt="image" src="https://github.com/user-attachments/assets/07f3e7bd-2ccf-4ebe-936a-db6ecc7628ce">
 
 To-Do:
 
