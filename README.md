@@ -9,7 +9,9 @@ Step 1: Install Venus OS Large on your Cerbo or Venus device and Enable Node RED
 Step 2: Access your Node RED instance via http://victron.local:1881 or http://CerboORVenusIP:1881 in your browser
 Step 3: Go to the "hamburger menu" in the top right, and click "Import" and import the file to a new flow. 
 
-Step 4: Review code, understand settings, and make sure it fits your usage needs. 
+Step 4: Review code, understand settings in the "Check System Condition" function, and make sure it fits your usage needs. 
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/22c7bdb9-386e-4f9d-9ea8-6b369f675468">
+
 
 Step 5: Click "Deploy" 
 
