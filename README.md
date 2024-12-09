@@ -1,6 +1,11 @@
 # Victron_SelfConsumption_NodeRED
 This is a Node-RED flow that will switch MultiPlus II inverters from "ON' which passes energy through and charges batteries to "Inverter Only" which disconnects from AC and inverts. 
 
+The idea was to eliminate the need to use Virtual Switch (VS) and instead use the control available here:
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/3328fe78-3b25-4039-83ba-7a326785e872">
+This effectively allows you to drive "Ignore AC Input" via Node RED
+
+
 Steps to implement:
 
 
